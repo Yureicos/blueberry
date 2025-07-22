@@ -1,5 +1,9 @@
 /*Background color*/
-body{background-color:#eee8dcff;}
+body{background-color:#eee8dcff}
+
+@media screen and (max-width: 800px) {
+  .left, .main, .right {
+width: 100%;}}
 
 /*Header color*/
 /*blue banner name*/
