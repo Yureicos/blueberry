@@ -1,19 +1,5 @@
 /*Background color*/
-body{background-color:#eee8dcff}
-
-
-.left, .right {
-  float: left;
-  width: 20%; /* The width is 20%, by default */
-}
-
-.main {
-  float: left;
-  width: 60%; /* The width is 60%, by default */
-}
-@media screen and (max-width: 800px) {
-  .left, .main, .right {
-width: 100%;}}
+body{background-color:#eee8dcff;}
 
 /*Header color*/
 /*blue banner name*/
