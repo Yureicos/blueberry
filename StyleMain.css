@@ -50,7 +50,8 @@ font-size: 200%;}
 
 }
 /*Background colors*/
-.b1{background-color:#9eb2bdff;}
+.b1{background-color:#9eb2bdff;
+   style="width:100vw" ;}
 .b2{background-color: #eee8dcff;} 
 
 /*alignment*/
