@@ -64,7 +64,8 @@ a{text-decoration: none;}
 @media (max-width:768px){
 	
 	.background-img{
-		width: 150%;  
+		width: 150%;
+		margin-top: 4vw;
 		z-index:-5;}}
 @media (min-width:768px){
 	.background-img{
