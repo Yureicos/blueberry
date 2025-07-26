@@ -61,14 +61,13 @@ mid{text-align:center;}
 a{text-decoration: none;}
 
 
-@media (max-width:767px){
+@media (max-width:768px){
 	
 	.background-img{
 		width: 100%;
-		margin-top: -10vw; 
-		Margin-left:5vw; 
+		margin-top: -10vw;  
 		z-index:-5;}}
-@media (min-width:767px){
+@media (min-width:768px){
 	.background-img{
 		width: 50%;
 		margin-top: -5vw; 
