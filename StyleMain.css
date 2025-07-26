@@ -66,6 +66,7 @@ a{text-decoration: none;}
 	.background-img{
 		width: 150%;
 		margin-top: 4vw;
+		margin-left: -23vw;
 		z-index:-5;}}
 @media (min-width:768px){
 	.background-img{
