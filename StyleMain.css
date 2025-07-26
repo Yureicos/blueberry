@@ -64,9 +64,14 @@ a{text-decoration: none;}
 @media (max-width:767px){
 	
 	.background-img{
-		width: 100%;}}
+		width: 100%;
+		margin-top: -5vw; 
+		Margin-left:25vw; 
+		z-index:-5;}}
 @media (min-width:767px){
 	.background-img{
 		width: 50%;
-		margin-top: -4vw; Margin-left:25vw; z-index:-5;}}
+		margin-top: -5vw; 
+		Margin-left:25vw; 
+		z-index:-5;}}
    
