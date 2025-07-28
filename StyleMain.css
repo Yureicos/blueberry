@@ -14,7 +14,11 @@ a{text-decoration: none;}
 
 
 @media (max-width:768px){
-	
+	.banner-logo{
+		width: 15%}
+	.instagram-logo{
+		width: 15vw;}
+		
 	.background-img{
 		width: 150%;
 		margin-top: 12vw;
@@ -71,6 +75,10 @@ a{text-decoration: none;}
 	}
 
 @media (min-width:768px){
+	.banner-logo{
+		width: 14%}
+	.instagram-logo{
+		width: 14vw;}
 	.background-img{
 		width: 50%;
 		margin-top: -5vw; 
