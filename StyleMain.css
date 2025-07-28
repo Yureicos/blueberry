@@ -15,9 +15,9 @@ a{text-decoration: none;}
 
 @media (max-width:768px){
 	.banner-logo{
-		width: 25%;}
+		width: 50%;}
 	.instagram-logo{
-		width: 25vw;}
+		width: 50vw;}
 		
 	.background-img{
 		width: 150%;
