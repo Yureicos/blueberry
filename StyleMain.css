@@ -7,7 +7,7 @@ body{background-color:#eee8dcff;}
 .b2{background-color: #eee8dcff;} 
 
 /*alignment*/
-mid{text-align:center;}
+.mid{text-align:center;}
 
 /*Text decoration*/
 a{text-decoration: none;}
@@ -24,6 +24,14 @@ a{text-decoration: none;}
 		margin-top: 12vw;
 		margin-left: -25vw;
 		z-index:-5;}
+	.bestuur_container{
+		flex-direction: column;       
+        align-items: center;          
+        justify-content: center;
+        text-align: center;           
+      }
+	.bestuur_foto{
+		width: 100vw;}
 		
 	/*Header color*/
 	/*blue banner name*/
@@ -53,6 +61,11 @@ a{text-decoration: none;}
 		h5{color:#2a4860ff;
 		font-family:Times New Roman;
 		font-size: 165%;}
+		
+	/*namen bestuur*/
+		h6{color:#2a4860ff;
+		font-family:Times New Roman;
+		font-size: 225%;}
 
 	/*boxes*/
 		.blue-box{
@@ -84,6 +97,16 @@ a{text-decoration: none;}
 		margin-top: -5vw; 
 		Margin-left:25vw; 
 		z-index:-5;}
+	.bestuur_container{
+		margin-left: 10vw;
+		display: flex;
+		flex-direction: row;
+		gap: 1vw;
+		justify-content: flex-start;
+		max-width: 80vw;
+		}
+	.bestuur_foto{
+		width: 25vw;}
 		
 	/*Header color*/
 	/*blue banner name*/
@@ -113,6 +136,11 @@ a{text-decoration: none;}
 		h5{color:#2a4860ff;
 		font-family:Times New Roman;
 		font-size: 200%;}
+		
+	/*namen bestuur*/
+		h6{color:#2a4860ff;
+		font-family:Times New Roman;
+		font-size: 250%;}
 	
 	/*boxes*/
 		.blue-box{
