@@ -12,6 +12,27 @@ body{background-color:#eee8dcff;}
 /*Text decoration*/
 a{text-decoration: none;}
 
+/*table style*/
+table {
+  border-collapse: collapse;
+  width: 80vw;
+  
+}
+
+td, th {
+  border: 1px solid #000000;
+  text-align: left;
+  padding: 8px;
+  font-size:3vw;
+  color: #2a4860ff;
+}
+
+tr:nth-child(even) {
+background-color: #9eb2bdff;}
+
+tr:nth-child(odd) {
+background-color: #eee8dcff;}
+
 
 @media (max-width:768px){
 	.banner-logo{
