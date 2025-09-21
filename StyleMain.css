@@ -101,7 +101,7 @@ a{text-decoration: none;}
 		margin-left: 10vw;
 		display: flex;
 		flex-direction: row;
-		gap: 1vw;
+		gap: 5vw;
 		justify-content: flex-start;
 		max-width: 70vw;
 		}
