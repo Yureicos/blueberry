@@ -118,13 +118,21 @@ background-color: #9eb2bdff;}
 		Margin-left:25vw; 
 		z-index:-5;}
 	.bestuur_container{
+		margin-left: 5vw;
+		display: flex;
+		flex-direction: row;
+		gap: 5vw;
+		justify-content: flex-start;
+		max-width: 85vw;
+		}
+	.vertrouwenspersoon_container{
 		margin-left: 3vw;
 		display: flex;
 		flex-direction: row;
 		gap: 5vw;
 		justify-content: flex-start;
 		max-width: 90vw;
-		}
+		}	
 	.bestuur_foto{
 		width: 25vw;}
 		
