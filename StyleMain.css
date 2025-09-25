@@ -49,9 +49,16 @@ background-color: #9eb2bdff;}
         align-items: center;          
         justify-content: center;
         text-align: center;
-      }
+		}
 	.bestuur_foto{
 		width: 95vw;}
+		
+	.vertrouwenspersoon_container{
+		flex-direction: column;       
+        align-items: center;          
+        justify-content: center;
+        text-align: center;
+		}	
 		
 	/*Header color*/
 	/*blue banner name*/
