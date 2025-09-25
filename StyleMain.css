@@ -135,6 +135,10 @@ background-color: #9eb2bdff;}
 		}	
 	.bestuur_foto{
 		width: 25vw;}
+	.margin_forced{
+		margin-left: 7vw; 
+		margin-right: 7vw;
+		}
 		
 	/*Header color*/
 	/*blue banner name*/
